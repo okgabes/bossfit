@@ -23,10 +23,6 @@
                         </div>
                     @endif
 
-                    <h1>Alunos </h1>
-                    @foreach ($professores as $professor)
-                        <h1>{{$professor->name}}</h1>
-                    @endforeach
                         <table class="table table-bordered">
                             <thead>
                                 <tr>
