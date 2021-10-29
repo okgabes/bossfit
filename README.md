@@ -12,7 +12,9 @@
 
 # BOSSFIT- ACADEMIA
 
-Projeto BOSSFIT é um CRUD feito em laravel (v.8) a fim de reproduzir um cadastro de academia. esse projeto foi realizado para avaliação de meus superiores sobre o meu conhecimento no framework Laravel
+Projeto BOSSFIT é um CRUD feito em laravel (v.8) a fim de reproduzir um cadastro de academia. esse projeto foi realizado para avaliação do meu conhecimento no framework laravel
+
+##### VER DOCUMENTAÇÃO EM:
 
 Para instalar o projeto:
 
