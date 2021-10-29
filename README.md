@@ -15,18 +15,20 @@
 Projeto BOSSFIT é um CRUD feito em laravel (v.8) a fim de reproduzir um cadastro de academia. esse projeto foi realizado para avaliação de meus superiores sobre o meu conhecimento no framework Laravel
 
 Para instalar o projeto:
+
 - Clone o projeto em seu diretório de execução
+
 - É necessário a utilização de um servidor local (WAMP ou XAMPP)
 
-> O projeto acompanha todas as pastas e arquivos, sendo não necessário novas instalação.
+> O projeto acompanha todas as pastas e arquivos, sendo não necessário novas instalação
 
-- É necessário a criação de um banco de dados chamado: 'bossfit’ do tipo 'utf8mb4 unicode ci'.
+- É necessário a criação de um banco de dados chamado: `bossfit` do tipo `utf8mb4 unicode ci`
 
-- É necessário adicionar os valores de DB_USERNAME e DB_PASSWORD no arquivo .env de acordo com seu banco de dados.
+- É necessário adicionar os valores de `DB_USERNAME` e `DB_PASSWORD` no arquivo `.env` de acordo com seu banco de dados
 
-- Já com o banco de dados criado, vá ao diretório do projeto execute: 'php artisan migrate', devem ser criadas 7 tabelas
+- Já com o banco de dados criado, vá ao diretório do projeto execute: `php artisan migrate`, devem ser criadas 7 tabelas
 
-- Agora para iniciar o projeto use o comando: 'php artisan server'
+- Agora para iniciar o projeto use o comando: `php artisan server`
 
 - Vá ao navegador e digite: http://127.0.0.1:8000/
 
