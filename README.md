@@ -22,6 +22,8 @@ Para instalar o projeto:
 
 - É necessário a criação de um banco de dados chamado: 'bossfit’ do tipo 'utf8mb4 unicode ci'.
 
+- É necessário adicionar os valores de DB_USERNAME e DB_PASSWORD no arquivo .env de acordo com seu banco de dados.
+
 - Já com o banco de dados criado, vá ao diretório do projeto execute: 'php artisan migrate', devem ser criadas 7 tabelas
 
 - Agora para iniciar o projeto use o comando: 'php artisan server'
